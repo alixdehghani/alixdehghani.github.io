@@ -1,2 +1,0 @@
-# alixdehghani
-my personal website

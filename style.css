@@ -200,7 +200,7 @@ body {
 .software .nested3 {
   grid-area: 7 / 1 / 8 / 2;
   background-color: rgb(39, 37, 177);
-  width: 3000px; /* Adjust with JavaScript */
+  width: 300px; /* Adjust with JavaScript */
   height: 20px;
 }
 .software .nested4 {
